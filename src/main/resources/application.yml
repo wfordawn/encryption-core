@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: encryption-core
+  profiles:
+    active: local #指明开发环境
+
+
+server:
+  port: 8090
